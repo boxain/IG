@@ -19,9 +19,6 @@ npm run build
 
 ```
 
-npm run prettier
-
-```
 
 ## 如何連接環境變數？
 
