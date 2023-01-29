@@ -1,5 +1,7 @@
 ## 如何使用此專案？
 
+
+
 1. 安裝依賴
 
 ```
@@ -30,3 +32,11 @@ npm run build
 
 1. 選擇從資料庫插入
 2. 啟動專案後使用http://localhost:3000/api/stories  or  http://localhost:3000/api/posts 插入資料
+
+
+## 專案啟動預覽畫面(有RWD)
+
+![ig1](https://user-images.githubusercontent.com/99231970/215319601-3370dad7-8a84-4d00-a63d-719844290405.png)
+![ig2](https://user-images.githubusercontent.com/99231970/215319609-04894522-07ef-49d2-8a5a-20c3a0c5fd7c.png)
+
+
