@@ -12,12 +12,13 @@ npm i
 ```
 
 npm run start
-
-```
-
 npm run build
 
 ```
+
+
+
+
 
 
 ## 如何連接環境變數？
